@@ -111,3 +111,19 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#Unreal generated files
+03_BuildingEscape/BuildingEscape/Intermediate
+03_BuildingEscape/BuildingEscape/Build
+03_BuildingEscape/BuildingEscape/Binaries
+03_BuildingEscape/BuildingEscape/Saved
+03_BuildingEscape/BuildingEscape/DerivedDataCache
+03_BuildingEscape/BuildingEscape/Content/StarterContent/Textures
+03_BuildingEscape/BuildingEscape/Content/StarterContent/HDRI
+03_BuildingEscape/BuildingEscape/.vs/BuildingEscape/v15/Browse.VC.db
+03_BuildingEscape/BuildingEscape/.vs/BuildingEscape/v15/Solution.VC.db
+03_BuildingEscape/BuildingEscape/.vs/BuildingEscape/v15/Solution.VC.db-shm
+03_BuildingEscape/BuildingEscape/.vs/BuildingEscape/v15/Solution.VC.db-wal
+*.ipch
+*.VC.opendb
+*.sln
