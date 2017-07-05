@@ -13,7 +13,7 @@ UGrabber::UGrabber()
 }
 
 void UGrabber::Grab() {
-	/// LINE TRACE to reach any actors with the physics body collision channel set
+	/// LINE TRACE to reach any actors with physics body collision channel set
 	auto HitResult = GetFirstPhysicsBodyInReach();
 	auto ComponentToGrab = HitResult.GetComponent();
 	auto ActorHit = HitResult.GetActor();
